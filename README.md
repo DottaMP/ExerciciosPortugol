@@ -1,2 +1,2 @@
-# Portugol-Generation
-Exercícios desenvolvidos no curso da Generation
+GenerationPortugolStudio
+Materiais desenvolvidos no curso da Generation.
